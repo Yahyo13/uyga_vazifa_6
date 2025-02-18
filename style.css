@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+span{
+    color: yellow;
+}
+header div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+main div{
+    background-color: black;
+    color: white;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+   margin-top: 30px;
+
+    
+
+    
+}
+main{
+    display: flex;
+   flex-wrap: wrap;
+justify-content: space-around;
+    
+}
+
+
+body{
+    background-color: rgb(165, 70, 70);
+}
+img{
+    width: 350px;
+}
